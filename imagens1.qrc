@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>pngtree-check-mark-icon-png-image_3566317.jpg</file>
+        <file>334047.png</file>
+        <file>Captura de tela 2023-03-30 221940.png</file>
+        <file>download (1).png</file>
+        <file>download.png</file>
+    </qresource>
+</RCC>
